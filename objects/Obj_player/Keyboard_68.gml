@@ -1,3 +1,3 @@
 /// @description Move Room
 
-x += 5;
+hspeed = 5;

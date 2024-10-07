@@ -1,3 +1,2 @@
 /// @description Move Down
-
-y += 5;
+vspeed = 5;

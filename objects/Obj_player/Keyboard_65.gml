@@ -1,3 +1,5 @@
 //@description Move Left
 
-x -= 5;	
+hspeed = -5;	
+
+image_xscale = 1;
